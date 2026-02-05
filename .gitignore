@@ -1,0 +1,12 @@
+#Node al archivo node no se sube a git
+node_modules/
+
+#Enviroment variables
+.env
+
+#Database
+.db
+
+# OS
+.DS_store
+
